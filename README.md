@@ -1,5 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Advance In Coding: Tier List 
 
+> This repository is the code for the YouTube video [Develop a Drag And Drop TIER LIST With VueJS! [2/2]](https://www.youtube.com/watch?v=YcGshr4ijk0);
+
+> If you want to see drag and drop only, check [Drag and Drop Nuxt3](https://github.com/AdvanceInCoding/drag-n-drop-nuxt3) repo, and [Drag And Drop FROM SCRATCH With VueJS! (no ext libs) [1/2]](https://www.youtube.com/watch?v=qi2lGfOfQ6s) video.
+
+
+## Nuxt 3 Minimal Starter
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
